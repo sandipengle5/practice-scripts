@@ -3,7 +3,7 @@
 #addition fuction
 
 echo "enter 1st number"
-rean num1
+read num1
 
 echo "enter 2nd number"
 read num2
